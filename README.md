@@ -10,5 +10,9 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 
 - git config --global user.email "email"
 ![2021-10-18 (4)](https://user-images.githubusercontent.com/92381092/137740949-491f4e1c-5bf9-4e3a-8a21-a54ec4a26798.png)
+# Jalankan perintah git init. untuk membuat repository local
+
+- git init
+
 
 
