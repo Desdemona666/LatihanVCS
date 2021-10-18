@@ -23,6 +23,8 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 
 - git add README.md
 - git add
+![2021-10-18 (8)](https://user-images.githubusercontent.com/92381092/137747751-a55a4f42-a3ee-4ae1-a488-7f9d6163d63d.png)
+
 
 
 
