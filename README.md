@@ -9,3 +9,5 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 - git config --global user.name "username"
 
 - git config --global user.email "email"
+!(![Uploading 2021-10-18 (4).png…])
+
