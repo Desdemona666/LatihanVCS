@@ -28,6 +28,7 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 
 - git commit -m "nama project"
 ![2021-10-18 (9)](https://user-images.githubusercontent.com/92381092/137748801-1552f3c9-87b4-4ddc-a32e-dc40a14e88ad.png)
+# Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
 
 
 
