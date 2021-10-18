@@ -36,7 +36,7 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 
 - git push -u origin master
 ![2021-10-18 (12)](https://user-images.githubusercontent.com/92381092/137751223-10692e69-7b62-4543-9df5-268ef4ad4ab4.png)
-
+# Terima Kasih 👍 👍
 
 
 
