@@ -31,6 +31,10 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 # Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
 
 - git remote add origin https://github.com/Desdemona666/LatihanVCS.git
+![2021-10-18 (10)](https://user-images.githubusercontent.com/92381092/137749673-75ad132c-0060-4e35-9245-381ac322d64f.png)
+# Untuk mengirim perubahan pada repository local ke server, gunakan perintah git push, perintah ini akan meminta Username dan Password pada akun github mu
+
+- git push -u origin master
 
 
 
