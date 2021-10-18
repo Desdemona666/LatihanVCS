@@ -9,5 +9,5 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 - git config --global user.name "username"
 
 - git config --global user.email "email"
-!(https://1drv.ms/u/s!AvCf0DWMeLYOgmwnk0Hw-LkiFEDT?e=Abg92J)
+
 
