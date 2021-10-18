@@ -6,5 +6,6 @@ Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk
 # Cara menambahkan global config
 
 pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut
--git config --global user.name "username"
--git config --global user.email "email"
+- git config --global user.name "username"
+
+- git config --global user.email "email"
