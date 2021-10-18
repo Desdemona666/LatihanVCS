@@ -18,6 +18,7 @@ pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan
 # Untuk membuat file dapat menggunakan Text Editor, lalu menyimpan filenya pada repository. disini saya akan membuatkan contoh membuat file README.md dengan perintah berikut
 
 - echo "#labs1" >> README.md
+![2021-10-18 (7)](https://user-images.githubusercontent.com/92381092/137746591-0b8c2058-b815-4666-9d74-ac6d47a9099e.png)
 
 
 
